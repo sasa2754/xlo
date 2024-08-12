@@ -1,0 +1,18 @@
+header {
+    background-color: #6D0BD6;
+}
+.centralize {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    max-width: 100%;
+    width: 50px;
+}
+
+.imgCarrossel {
+    max-width: 90%;
+    width: 2000px;
+}
